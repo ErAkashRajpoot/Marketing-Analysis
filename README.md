@@ -34,8 +34,7 @@ This repository is structured as follows:
 │   ├── 3.RFM+Churn+MBA.ipynb       
 │   ├── 4.Sentiment analysis.ipynb  
 │   └── 5.Extra Point 1+2.ipynb     
-├── README.md
-└── presentation.pdf                 
+├── README.md              
 ```
 
 All the necessary packages are listed at the beginning of every notebook. 
